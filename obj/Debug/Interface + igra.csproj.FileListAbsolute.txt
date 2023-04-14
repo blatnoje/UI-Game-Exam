@@ -1,0 +1,14 @@
+M:\Proekti\Interface + igra\obj\Debug\Interface + igra.csproj.AssemblyReference.cache
+M:\Proekti\Interface + igra\obj\Debug\Interface + igra.csproj.SuggestedBindingRedirects.cache
+M:\Proekti\Interface + igra\obj\Debug\Interface___igra.MenuForm.resources
+M:\Proekti\Interface + igra\obj\Debug\Interface___igra.GameForm.resources
+M:\Proekti\Interface + igra\obj\Debug\Interface___igra.HelpForm.resources
+M:\Proekti\Interface + igra\obj\Debug\Interface___igra.Properties.Resources.resources
+M:\Proekti\Interface + igra\obj\Debug\Interface + igra.csproj.GenerateResource.cache
+M:\Proekti\Interface + igra\obj\Debug\Interface + igra.csproj.CoreCompileInputs.cache
+M:\Proekti\Interface + igra\bin\Debug\Interface + igra.exe.config
+M:\Proekti\Interface + igra\bin\Debug\Interface + igra.exe
+M:\Proekti\Interface + igra\bin\Debug\Interface + igra.pdb
+M:\Proekti\Interface + igra\obj\Debug\Interface + igra.exe
+M:\Proekti\Interface + igra\obj\Debug\Interface + igra.pdb
+M:\Proekti\Interface + igra\obj\Debug\Interface___igra.SecretnayaForma.resources
