@@ -118,7 +118,7 @@ namespace Interface___igra
         private void GameForm_Paint(object sender, PaintEventArgs e)
         {
             //Рисуем картинку
-            Pict = new Bitmap("M:\\Proekti\\Interface + igra\\Resources\\Zamok.JPG");
+            Pict = new Bitmap(Properties.Resources.Zamok);
             g.DrawImage(Pict, 20, 20, Pict.Width, Pict.Height);
             //Размеры фрагмента рисунка
             w = Pict.Width / 4;
